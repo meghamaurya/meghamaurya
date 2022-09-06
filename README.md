@@ -36,8 +36,8 @@
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify"/>  
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghamaurya&show_icons=true&locale=en&layout=compact" alt="meghamaurya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghamaurya&show_icons=true&locale=en&layout=compact" alt="meghamaurya" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=meghamaurya&show_icons=true&locale=en" alt="meghamaurya" /></p>
-<br></br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=meghamaurya&" alt="meghamaurya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghamaurya&show_icons=true&locale=en" alt="meghamaurya" /></p>
+
+<p><img align="cneter" src="https://github-readme-streak-stats.herokuapp.com/?user=meghamaurya&" alt="meghamaurya" /></p>
