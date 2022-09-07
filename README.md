@@ -10,7 +10,7 @@
 
 - 📄 Know about my experience: **I am building....**
 
-- ⚡Interests: Playing different music instruments, riding, photography...**
+- ⚡Interests: **Playing different music instruments, riding, photography...**
 
 <p align="left">
 </p>
