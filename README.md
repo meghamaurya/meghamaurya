@@ -2,6 +2,7 @@
 
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <p align="center">
+<a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha maurya" height="30" width="40" /></a>
 <a href="https://twitter.com/meghamaurya58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghamaurya58" height="30" width="40" /></a>
 <a href="https://instagram.com/megha58m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="megha58m" height="30" width="40" /></a>
 </p>
