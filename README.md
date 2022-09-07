@@ -1,5 +1,4 @@
-[Untitled.webm](https://user-images.githubusercontent.com/104269540/188719486-5dc90ebd-fc6b-438b-bc85-9a6463604c8e.webm)
-
+<img align="center" src="https://user-images.githubusercontent.com/104269540/188860515-8ec9b0ff-f821-408c-9649-39814bff447d.gif" alt="banner" width="1200" height="300"/>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <p align="center">
 <a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha maurya" height="30" width="40" /></a>
