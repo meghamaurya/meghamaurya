@@ -1,13 +1,16 @@
 [Untitled.webm](https://user-images.githubusercontent.com/104269540/188719486-5dc90ebd-fc6b-438b-bc85-9a6463604c8e.webm)
 
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-
+<p align="center">
+<a href="https://twitter.com/meghamaurya58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghamaurya58" height="30" width="40" /></a>
+<a href="https://instagram.com/megha58m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="megha58m" height="30" width="40" /></a>
+</p>
 
 - 🌱 I’m currently learning: **React**
 
 - 📄 Know about my experience: **I am building....**
 
-- ⚡ Fact: **I am curious to know more about coding...**
+- ⚡Interests: Playing different music instruments, riding, photography...**
 
 <p align="left">
 </p>
@@ -30,6 +33,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=whit" alt="git" />
 <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs code"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="versel"/> 
