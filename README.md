@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/104269540/188860515-8ec9b0ff-f821-408c-9649-39814bff447d.gif" alt="banner" width="1200" height="300"/>
+<img align="center" src="https://user-images.githubusercontent.com/104269540/189173620-756fb249-c930-4b58-b7fe-33a57936229b.gif" alt="banner" width="1200" height="300"/>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <p align="center">
 <a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha maurya" height="30" width="40" /></a>
