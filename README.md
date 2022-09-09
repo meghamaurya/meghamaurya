@@ -11,7 +11,7 @@
 
 - I love **Playing different Musical Instruments**
 
-<h3 align="left">Reach me :</h3>
+<h3 align="left">Reach out to me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha maurya" height="25" width="30" /></a>
 <a href="https://twitter.com/meghamaurya58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghamaurya58" height="25" width="30" /></a>
