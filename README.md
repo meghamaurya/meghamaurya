@@ -1,18 +1,20 @@
-<img align="center" src="https://user-images.githubusercontent.com/104269540/189180654-4c25c15b-6f75-4a81-9ad8-d2b3daf626da.gif" alt="banner" width="1100" height="300"/>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
-<p align="center">
-<a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha maurya" height="30" width="40" /></a>
-<a href="https://twitter.com/meghamaurya58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghamaurya58" height="30" width="40" /></a>
-<a href="https://instagram.com/megha58m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="megha58m" height="30" width="40" /></a>
-</p>
+<img align="center" src="https://user-images.githubusercontent.com/104269540/189446739-3eef48e6-a3f7-4235-b03e-8f8384c6ce09.gif" alt="banner" width="1100" height="300"/>
+<br></br>
 
-- 🌱 I’m currently learning: **React**
+<h2>💫 About me </h2>
 
-- 📄 Know about my experience: **I am building....**
+- I’m a Frontend Developer from India
 
-- ⚡Interests: **Playing different music instruments, riding, photography...**
+- I’m currently learning: **React**
 
+- I love learning and building new concepts
+
+- Interests: **Playing different music instruments**
+
+<h3 align="left">Reach me :</h3>
 <p align="left">
+<a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha maurya" height="25" width="30" /></a>
+<a href="https://twitter.com/meghamaurya58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghamaurya58" height="25" width="30" /></a>
 </p>
 
 <h3 align="left">Languages & Libraries :</h3>
@@ -36,6 +38,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs code"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> 
+
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="versel"/> 
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify"/>  
 
