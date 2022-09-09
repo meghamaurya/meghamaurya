@@ -9,7 +9,7 @@
 
 - I love learning and building new concepts
 
-- Interests: **Playing different music instruments**
+- I love **Playing different Musical Instruments**
 
 <h3 align="left">Reach me :</h3>
 <p align="left">
