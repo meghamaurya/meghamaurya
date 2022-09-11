@@ -1,5 +1,5 @@
 <img align="center" src="https://user-images.githubusercontent.com/104269540/189446739-3eef48e6-a3f7-4235-b03e-8f8384c6ce09.gif" alt="banner" width="1000" height="300"/>
-<h4 align="center">Namaste..🙏, I’m Megha Maurya</h4>
+<h3 align="center">Namaste..🙏, I’m Megha Maurya</h3>
 
 <h2>💫 About me </h2>
 
