@@ -1,14 +1,11 @@
-<img align="center" src="https://user-images.githubusercontent.com/104269540/189446739-3eef48e6-a3f7-4235-b03e-8f8384c6ce09.gif" alt="banner" width="1100" height="300"/>
-<br></br>
+<img align="center" src="https://user-images.githubusercontent.com/104269540/189446739-3eef48e6-a3f7-4235-b03e-8f8384c6ce09.gif" alt="banner" width="1000" height="300"/>
+<p align="center">Namaste..🙏, I’m Megha Maurya</p>
 
 <h2>💫 About me </h2>
 
 - I’m a Frontend Developer from India
-
 - I’m currently learning: **React**
-
 - I love learning and building new concepts
-
 - I love **Playing different Musical Instruments**
 
 <h3 align="left">Reach out to me :</h3>
