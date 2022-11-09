@@ -1,18 +1,23 @@
-<img align="center" src="https://user-images.githubusercontent.com/104269540/189446739-3eef48e6-a3f7-4235-b03e-8f8384c6ce09.gif" alt="banner" width="1000" height="300"/>
-<h3 align="center">Namaste..🙏, I’m Megha Maurya</h3>
+<!-- <img align="center" src="https://user-images.githubusercontent.com/104269540/189446739-3eef48e6-a3f7-4235-b03e-8f8384c6ce09.gif" alt="banner" width="1000" height="300"/> -->
+<h4 align="center">Namaste..🙏, I’m Megha Maurya</h4>
+<p align="center" margin-bottom="2px">
+<a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank">LinkedIn | </a>
+<a href="https://twitter.com/meghamaurya58" target="blank">Twitter</a>
+<p align="center" margin-top="70px">A Frontend Developer from Madhya Pradesh, India</p>
+</p>
+<hr>
+<!-- <h2>💫 About me</h2> -->
 
-<h2>💫 About me</h2>
 
-- I’m a Frontend Developer from India
-- I’m currently learning: **React**
-- I love learning and building new concepts
-- I love **Playing different Musical Instruments**
-
-<h3 align="left">Reach out to me :</h3>
+- 🌱 I’m currently learning: **React**
+- 📖 I love learning and building new concepts
+- 📫 How to reach me: meghamini40@gmail.com
+- 🙂 I love **Playing different Musical Instruments**
+<!-- <h3 align="left">Reach out to me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha maurya" height="25" width="30" /></a>
 <a href="https://twitter.com/meghamaurya58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghamaurya58" height="25" width="30" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages & Libraries :</h3>
 
