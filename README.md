@@ -1,7 +1,7 @@
 <!-- <img align="center" src="https://user-images.githubusercontent.com/104269540/189446739-3eef48e6-a3f7-4235-b03e-8f8384c6ce09.gif" alt="banner" width="1000" height="300"/> -->
 <h4 align="center">Namaste..🙏, I’m Megha Maurya</h4>
 <p align="center" margin-bottom="2px">
-<a href="https://linkedin.com/in/megha-maurya-21369324b" target="blank">LinkedIn | </a>
+<a href="https://www.linkedin.com/in/megha-maurya/" target="blank">LinkedIn | </a>
 <a href="https://twitter.com/meghamaurya58" target="blank">Twitter</a>
 <p align="center" margin-top="70px">A Frontend Developer from Madhya Pradesh, India</p>
 </p>
