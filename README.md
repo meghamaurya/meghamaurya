@@ -46,7 +46,8 @@
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="versel"/> 
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="netlify"/>  
-
+<img src="https://img.shields.io/badge/figma-skyblue.svg?style=for-the-badge&logo=figma&logoColor=blue" alt="figma"/>
+  
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghamaurya&show_icons=true&locale=en&layout=compact" alt="meghamaurya" /></p>
 
